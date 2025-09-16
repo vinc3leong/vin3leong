@@ -1,4 +1,4 @@
-# Hi, I'm [Vince] 👋  
+# Hi, I'm Vince 👋  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/vince-zi-yong-leong/))
 
