@@ -1,5 +1,9 @@
 # Hi, I'm Vince 👋  
 
+Just a student messing around with **AI** and building **ML models**.  
+Half learning, half experimenting, and occasionally making something that actually works. 🚀
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/vince-zi-yong-leong/))
 
 ## 🚀 Relevant Projects
