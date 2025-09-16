@@ -30,7 +30,7 @@ Half learning, half experimenting, and occasionally making something that actual
 
 ### 3. Automated Rostering System  
 **Tech Stack:** Excel VBA  
-- Semi-automated rostering system for **NUS Central Library** staff.  
+- Semi-automated rostering system.  
 - Features:  
   - **Roster generation algorithm** with staff swapping support.  
   - **Analysis report generation** and sheet protection.  
@@ -41,9 +41,8 @@ Half learning, half experimenting, and occasionally making something that actual
 
 ### 4. NUSell  
 **Tech Stack:** React Native, Express.js, Node.js, Axios, MongoDB, JavaScript, eBay API  
-- Full-stack marketplace app developed for the **NUS Orbital module**.  
+- Full-stack marketplace app.
 - Key features:  
   - **Buy, list, and sell items** with user authentication and payments.  
   - **eBay API integration** for price comparison.  
   - **Basic image recognition** with suggested item names.  
-- Achieved **Apollo (second-highest award)** for implementation quality and impact.  
